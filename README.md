@@ -12,6 +12,7 @@ The project is a simple structure of a static webpage that allows the practice o
 - Improving layout and design skills
 
 This project is based on the frontend projects provided by [Roadmap.sh](https://roadmap.sh/frontend).
+https://roadmap.sh/projects/single-page-cv
 
 ## Project Structure
 
